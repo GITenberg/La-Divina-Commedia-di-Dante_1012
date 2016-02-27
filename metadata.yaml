@@ -1,0 +1,30 @@
+_repo: La-Divina-Commedia-di-Dante_1012
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Harvard Classics
+- IT Poesia
+- Poetry
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1012'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian poetry -- To 1400'
+- !lcsh 'Epic poetry, Italian'
+title: La Divina Commedia di Dante
+url: http://www.gutenberg.org/ebooks/1012
