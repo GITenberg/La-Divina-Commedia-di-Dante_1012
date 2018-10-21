@@ -1,5 +1,5 @@
 _repo: La-Divina-Commedia-di-Dante_1012
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'Italian poetry -- To 1400'
 - !lcsh 'Epic poetry, Italian'
+- GITenberg
 title: La Divina Commedia di Dante
 url: http://www.gutenberg.org/ebooks/1012
